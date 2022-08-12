@@ -75,7 +75,5 @@ const Timmy = new Person("Timmy", 5) {
 // class Timmy extends Person {
 //     constructor(name, age, height, weight, mood, hamsters, bankAccount) {
 
-//     }
-// }
 
 //test
